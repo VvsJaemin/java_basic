@@ -18,7 +18,7 @@ public class For_Test5 {
             }
 
         }
-        System.out.println((double) countSix / (double) total *100.0+ "%");
+        System.out.println((double) countSix / (double) total *100.0+ "ㄴㅁㅇㅁㄴㅇ%");
 
     }
 }

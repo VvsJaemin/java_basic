@@ -37,5 +37,6 @@ public class Ex5 {
         System.out.println(mt);
         System.out.println(mt.num);
         System.out.println(mt.name);
+
     }
 }

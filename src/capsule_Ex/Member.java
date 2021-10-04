@@ -10,6 +10,10 @@ public class Member {
         this.alias = alias;
     }
 
+    public Member() {
+
+    }
+
     public String getName() {
         return name;
     }

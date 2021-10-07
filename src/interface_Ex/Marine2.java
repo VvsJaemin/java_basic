@@ -27,4 +27,5 @@ public class Marine2 {
         System.out.println(commandCenter.hp + "공격후");
     }
 
+
 }

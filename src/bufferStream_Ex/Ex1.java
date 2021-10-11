@@ -1,4 +1,4 @@
-package stream_Ex;
+package bufferStream_Ex;
 // 데이터를 코드로(메모리) 불러올때 : InputStream(인터페이스)
 // -> 구현체를 사용 -> FileInputStream, InputStreamReader(인코딩가능 스트림)
 

@@ -1,4 +1,4 @@
-package stream_Ex;
+package bufferStream_Ex;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
